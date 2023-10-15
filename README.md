@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Therocking
 - 👀 I’m interested in learn linux OS, and web technologies.
-- 🌱 I’m currently learning css, react and node.
+- 🌱 I’m currently learning backend technologies.
 - 💞️ I’m looking to collaborate on a big proyect.
 - 📫 How to reach me instagram - Jose Adrian Genao.
 
